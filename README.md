@@ -2,7 +2,7 @@
 
 A collection of MongoDB database dumps of the data collected by [**Kirby**](https://github.com/dev-schueppchen/Kirby) from 2019-04-28 to 2020-03-29.
 
-The dataset has an uncompressed summerized size of around 3.2GB. Just saying so that you are not going to "[zip-bombing](https://en.wikipedia.org/wiki/Zip_bomb)" yourself. 😉
+The dataset has an uncompressed summerized size of around 3.2GB. Just saying so that you are not going to "[zip-bomb](https://en.wikipedia.org/wiki/Zip_bomb)" yourself. 😉
 
 ![](https://i.imgur.com/SLAd1pn.png)
 
